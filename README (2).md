@@ -42,7 +42,7 @@ business pitches, or anything built on competition, judgment, or harm.
 | | |
 |---|---|
 | **API guides** | Connecting a solution's content and availability to the platform. |
-| **MCP servers** | Model Context Protocol integrations so solutions can be reached by the companion and by LOVE Agents. |
+| **MCP servers** | Model Context Protocol integrations so solutions can be reached by platform and by LOVE Agents. |
 | **LOVE Agents** | Building public or private agents that facilitate growth and automate recurring tasks. |
 | **Classification** | How solutions are classified by LOVE level, category, subcategory, and detail so they reach the people they can actually help. |
 | **Examples** | Reference implementations in more than one language. |
