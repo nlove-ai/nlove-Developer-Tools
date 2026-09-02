@@ -90,4 +90,4 @@ are property of n(LOVE)™; this repository grants no rights to them.
 
 ---
 
-© 2026 NLOVE LLC · [nlove.ai](https://nlove.ai) · n(LOVE)™ · The formula to multiply LOVE.
+© 2026 NLOVE LLC · [nlove.ai](https://nlove.ai) · n(LOVE)™ · The formula to multiply LOVE. All rights reserved.
