@@ -11,8 +11,8 @@ services to the n(LOVE) platform through the API, MCP servers, and LOVE Agents.
 
 ## What n(LOVE) is
 
-n(LOVE)™ is an AI platform governed by LOVE: a platform and a lifestyle that helps people
-practice love across every area of life, self first, then overflowing to the world.
+AI platform governed by n(LOVE)™: a platform of a lifestyle that helps people
+practice love across every area of life, self first, and then overflowing to the world.
 **LOVE Solutions** is its marketplace of resources — tools, products, services, and
 agents — matched to a person's LOVE level, life categories, schedule, and budget.
 
