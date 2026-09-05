@@ -11,7 +11,7 @@ services to the n(LOVE) platform through the API, MCP servers, and AI LOVE Agent
 
 ## What n(LOVE) is
 
-An(LOVE)™ is an AI-powered holistic love and wellness platform operated by NLOVE LLC: a platform of a lifestyle that helps people
+n(LOVE)™ is an AI-powered holistic love and wellness platform operated by NLOVE LLC: a platform of a lifestyle that helps people
 practice love across every area of life, self first, and then overflowing to the world.
 **LOVE Solutions** is its marketplace of resources — tools, products, services, and
 agents — matched to a person's LOVE level, life categories, schedule, and budget.
