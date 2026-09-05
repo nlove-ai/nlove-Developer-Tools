@@ -1,7 +1,7 @@
 # n(LOVE)™ Developer Tools
 
 Instructions and example code for **approved solution providers** to connect content and
-services to the n(LOVE) platform through the API, MCP servers, and LOVE Agents.
+services to the n(LOVE) platform through the API, MCP servers, and AI LOVE Agents.
 
 > **Status: coming soon.** The platform is in private beta, opening in waves. This repo
 > is published early so providers know where the tools will live. Nothing here is stable
@@ -11,7 +11,7 @@ services to the n(LOVE) platform through the API, MCP servers, and LOVE Agents.
 
 ## What n(LOVE) is
 
-An(LOVE)™ is an AI-powered holistic love and wellness platform operated by NLOVE LLC.: a platform of a lifestyle that helps people
+An(LOVE)™ is an AI-powered holistic love and wellness platform operated by NLOVE LLC: a platform of a lifestyle that helps people
 practice love across every area of life, self first, and then overflowing to the world.
 **LOVE Solutions** is its marketplace of resources — tools, products, services, and
 agents — matched to a person's LOVE level, life categories, schedule, and budget.
