@@ -11,7 +11,7 @@ services to the n(LOVE) platform through the API, MCP servers, and LOVE Agents.
 
 ## What n(LOVE) is
 
-AI platform governed by n(LOVE)™: a platform of a lifestyle that helps people
+An(LOVE)™ is an AI-powered holistic love and wellness platform operated by NLOVE LLC.: a platform of a lifestyle that helps people
 practice love across every area of life, self first, and then overflowing to the world.
 **LOVE Solutions** is its marketplace of resources — tools, products, services, and
 agents — matched to a person's LOVE level, life categories, schedule, and budget.
@@ -26,8 +26,7 @@ Solution providers whose submissions have been **reviewed and approved** for the
 Solutions marketplace. Approval comes first; these tools come second.
 
 Not yet approved? Submit a solution at
-**[nlove.ai](https://nlove.ai/#solution-provider)** — $25 per solution, reviewed for
-alignment before public launch.
+**[nlove.ai](https://nlove.ai/#solution-provider)** — Submit a solution for consideration at nlove.ai during beta launch. Applications will be reviewed for alignment and approval during the private beta rollout prior to public launch.
 
 **What we're looking for:** practical, actionable solutions focused on holistic life
 support, personal growth, daily well-being, and community support.
