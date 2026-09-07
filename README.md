@@ -63,7 +63,7 @@ The platform is governed by a written constitution, and integrations inherit it:
   what a person has agreed to share.
 - **Never stands between a person and help.** Crisis resources are never gated, delayed,
   or discouraged, by us or by anything connected to us.
-- **Holistic by design.** Love here spans every area of life, not romance alone.
+- **Holistic by design.** LOVE here spans every area of life, not romance alone.
 
 ---
 
